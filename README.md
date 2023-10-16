@@ -131,7 +131,4 @@ Chek Extract file before deploy
 ![image](https://github.com/subhamo1/Host_Resume_on_aws/assets/101514854/8a5c1f01-a7ca-4712-a81b-e06ccf308c6d)
 
 
-click this link ti view my resume :
-
-https://d1ptnexakjy4ad.cloudfront.net/
 
